@@ -1,0 +1,16 @@
+body {
+   font-family:'Times New Roman', Times, serif;
+   margin: 0;
+   padding: 0;
+   background-color: darkseagreen;
+   color:black;
+}
+header, footer {
+    background-color:cornsilk;
+    color:black;
+    padding:1rem;
+    text-align:center;
+}
+main {
+    padding:2rem;
+}
